@@ -4,7 +4,7 @@ title: Etiquettes
 date: 2015-09-05
 ---
 
-How about writing a composing a series of articles in a blog or a website to explain coding and otherwise technical etiquettes. We can have things like:
+How about composing a series of articles in a blog or a website to explain coding and otherwise technical etiquettes. We can have things like:
 
 * how to use npm
 * how to manage python packages and version
